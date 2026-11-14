@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Theory of Gases, Speed Distribution & Mean Free Path Studio",
+  "description": "Interactive physics simulation studio for kinetic origin of gas pressure, Maxwell-Boltzmann speed distribution, and mean free path with bilingual Bangla and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
